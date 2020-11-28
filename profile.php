@@ -55,7 +55,7 @@ if(!isset($_SESSION["uid"])){
 
 	<!-- Part 2 from OG website -->
 	<nav class="main-nav-outer" id="test">
-		<!--main-nav-start-->
+		<!--main-nav-start-- >
 		<div class="container">
 			<ul class="main-nav">
 				<li><a href="#header">Home</a></li>
